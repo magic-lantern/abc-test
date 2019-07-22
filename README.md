@@ -35,6 +35,6 @@ Ordered
 
 And some text goes here.
 
-1. You can use sequential numbers...
-2. ...or keep all the numbers as `1.`
-3. another item that doesn't matter
+1. You can use sequential numbers... more text
+2. ...or keep all the numbers as `1.` more text
+3. another item that doesn't matter more text
