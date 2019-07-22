@@ -31,6 +31,6 @@ Ordered
 2. Consectetur adipiscing elit
 3. Integer molestie lorem at massa
 
+### Removed other list
 
-1. You can use sequential numbers...
-1. ...or keep all the numbers as `1.`
+And some text goes here.
